@@ -69,8 +69,6 @@ def lancement():
         histo('Trajets par heure', dff, 24, 0.9, (-0.5,23.5), None,"hour")   
         
 
-    st.write('Manowaraly_Hatim_LAB3')
-
 def get_dom(dt):
         return dt.day
     
